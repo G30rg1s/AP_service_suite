@@ -1,4 +1,4 @@
-package suites.TS_API_USER_REGISTRATION;
+package suites.TS_API_USER_REGISTRATION.TS_API_USER_REGISTRATION;
 
 import gr.automation.platform.utils.Base;
 import org.testng.annotations.AfterTest;

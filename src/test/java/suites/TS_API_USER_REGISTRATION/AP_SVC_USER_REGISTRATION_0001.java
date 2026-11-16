@@ -3,6 +3,7 @@ package suites.TS_API_USER_REGISTRATION;
 import gr.automation.platform.utils.listeners.CustomTestNGListener;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+import suites.TS_API_USER_REGISTRATION.TS_API_USER_REGISTRATION.BaseUserRegistration;
 
 @Listeners(CustomTestNGListener.class)
 public class AP_SVC_USER_REGISTRATION_0001 extends BaseUserRegistration {
