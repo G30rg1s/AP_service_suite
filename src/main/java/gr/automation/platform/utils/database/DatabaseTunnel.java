@@ -8,7 +8,7 @@ import java.time.Duration;
 public class DatabaseTunnel {
 
     private static final String CONTAINER = "ap-suite-db-tunnel";
-    private static final String NETWORK = "automation-platform-student-txt_default";
+    private static final String NETWORK = "cf_automation_testing_platform_default";
 
     private static final String JDBC_URL =
             "jdbc:mysql://127.0.0.1:3307/apitesting";

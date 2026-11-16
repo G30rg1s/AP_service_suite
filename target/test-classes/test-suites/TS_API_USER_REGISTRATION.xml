@@ -1,3 +1,11 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
 <suite name="TS_API_USER_REGISTRATION">
+
+    <test name="User Registration API Tests">
+        <classes>
+            <class name="suites.TS_API_USER_REGISTRATION.AP_SVC_USER_REGISTRATION_0001"/>
+        </classes>
+    </test>
+
 </suite>
